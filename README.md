@@ -21,8 +21,8 @@ sudo pacman -S gammastep libnotify
 ## التثبيت
 
 ```bash
-git clone https://github.com/0xdya/hypr-nightlight.git
-cd hypr-nightlight
+git clone https://github.com/0xdya/HNT.git
+cd HNT
 chmod +x HNT.sh
 cp HNT.sh ~/.config/hypr/scripts/
 ```
@@ -64,7 +64,3 @@ NAMES=("إيقاف" "ليلي" "دافئ" "خفيف")
 ```
 
 ---
-
-## الترخيص
-
-MIT
